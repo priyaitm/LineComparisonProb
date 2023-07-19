@@ -1,0 +1,14 @@
+C:\Users\DELL\source\repos\PositiveNum\LineCoparisonObj\bin\Debug\netcoreapp3.1\LineCoparisonObj.exe
+C:\Users\DELL\source\repos\PositiveNum\LineCoparisonObj\bin\Debug\netcoreapp3.1\LineCoparisonObj.deps.json
+C:\Users\DELL\source\repos\PositiveNum\LineCoparisonObj\bin\Debug\netcoreapp3.1\LineCoparisonObj.runtimeconfig.json
+C:\Users\DELL\source\repos\PositiveNum\LineCoparisonObj\bin\Debug\netcoreapp3.1\LineCoparisonObj.runtimeconfig.dev.json
+C:\Users\DELL\source\repos\PositiveNum\LineCoparisonObj\bin\Debug\netcoreapp3.1\LineCoparisonObj.dll
+C:\Users\DELL\source\repos\PositiveNum\LineCoparisonObj\bin\Debug\netcoreapp3.1\LineCoparisonObj.pdb
+C:\Users\DELL\source\repos\PositiveNum\LineCoparisonObj\obj\Debug\netcoreapp3.1\LineCoparisonObj.csproj.AssemblyReference.cache
+C:\Users\DELL\source\repos\PositiveNum\LineCoparisonObj\obj\Debug\netcoreapp3.1\LineCoparisonObj.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\source\repos\PositiveNum\LineCoparisonObj\obj\Debug\netcoreapp3.1\LineCoparisonObj.AssemblyInfoInputs.cache
+C:\Users\DELL\source\repos\PositiveNum\LineCoparisonObj\obj\Debug\netcoreapp3.1\LineCoparisonObj.AssemblyInfo.cs
+C:\Users\DELL\source\repos\PositiveNum\LineCoparisonObj\obj\Debug\netcoreapp3.1\LineCoparisonObj.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\PositiveNum\LineCoparisonObj\obj\Debug\netcoreapp3.1\LineCoparisonObj.dll
+C:\Users\DELL\source\repos\PositiveNum\LineCoparisonObj\obj\Debug\netcoreapp3.1\LineCoparisonObj.pdb
+C:\Users\DELL\source\repos\PositiveNum\LineCoparisonObj\obj\Debug\netcoreapp3.1\LineCoparisonObj.genruntimeconfig.cache
